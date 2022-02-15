@@ -1,1 +1,1 @@
-# Project_smeka
+Hello, world
